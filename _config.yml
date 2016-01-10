@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: bogdansarbu
 opengraph:
   image: null
   type: null
@@ -21,20 +19,22 @@ collections:
 purpose: []
 color:
   saturation: 0
+  brandStrength: 0.4752954
   lightness: 0
-  brandStrength: 1
   brandColors:
     - '#161516'
     - '#BDB5A3'
     - '#FFFFFA'
     - '#B42127'
     - '#B36F65'
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.4838883
 typography_spectrum: 0.2121374
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 layout_spectrum: 1
-favicon: null
-name: bogdansarbu
