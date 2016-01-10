@@ -1,28 +1,40 @@
-name: bogdansarbu
-favicon: null
 layout_spectrum: 0.25387
-typography_spectrum: 0.49642
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0.75
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0
+  lightness: 0
+  brandStrength: 1
+  brandColors:
+    - '#161516'
+    - '#BDB5A3'
+    - '#FFFFFA'
+    - '#B42127'
+    - '#B36F65'
+  rhythmicContrast: 0.75
+typography_spectrum: 0.49642
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: bogdansarbu
