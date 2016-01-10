@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-10T18:10:45.628Z'
-dateModified: '2016-01-10T18:10:27.536Z'
+description: First step to a relaxed and joyful time ...
+datePublished: '2016-01-10T18:15:22.937Z'
+dateModified: '2016-01-10T18:15:12.456Z'
 title: Longing for efficiency
 author: []
+sourcePath: _posts/2016-01-10-longing-for-efficiency.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-longing-for-efficiency.md
-published: true
 url: longing-for-efficiency/index.html
 _type: Article
 
