@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: First step to a relaxed and joyful time ...
-datePublished: '2016-01-10T18:16:39.881Z'
-dateModified: '2016-01-10T18:16:35.766Z'
+datePublished: '2016-01-10T18:18:04.291Z'
+dateModified: '2016-01-10T18:18:00.752Z'
 title: Longing for efficiency
 author: []
 sourcePath: _posts/2016-01-10-longing-for-efficiency.md
