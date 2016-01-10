@@ -1,4 +1,7 @@
-layout_spectrum: 0.25387
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -27,14 +30,11 @@ color:
     - '#B42127'
     - '#B36F65'
   rhythmicContrast: 0.75
-typography_spectrum: 0.49642
+typography_spectrum: 0.2121374
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 1
 favicon: null
 name: bogdansarbu
