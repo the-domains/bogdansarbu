@@ -1,0 +1,28 @@
+name: bogdansarbu
+favicon: null
+layout_spectrum: 0.3496776116080582
+typography_spectrum: 0.7315485409926623
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4706313763745129
+  lightness: 0.9680608254857361
+  saturation: 0.27407669415697455
+  rhythmicContrast: 0.22513305000029504
+purpose: []
